@@ -1,0 +1,30 @@
+{
+  "name": "9gagondiscord",
+  "version": "1.0.0",
+  "description": "Simple Discord Bot which translate 9Gag post into image/video directly on chat",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "axios": "^0.17.0",
+    "fs-extra": "^4.0.2",
+    "handlebars": "^4.0.11",
+    "discord.js": "^11.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Teddy Valette",
+  "license": "MIT",
+  "homepage": "https://github.com/Kyominii/9GagOnDiscord",
+  "keywords": [
+    "9gag",
+    "discord"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyominii/9GagOnDiscord"
+  }
+}
