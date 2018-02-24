@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> 9GagDiscord is a discord bot which convert a 9Gag link into the media (image or video) directly on the Discord chat.
+> 9GagOnDiscord is a discord bot which convert a 9Gag link into the media (image or video) directly on the Discord chat.
 
 ## Installation
 
